@@ -1,3 +1,15 @@
+||ads.deezer.com^$app=deezer.android.app
+||e-cdn-proxy.deezer.com/ad/*$app=deezer.android.app
+||cdns-images.deezer.com/ad/*$app=deezer.android.app
+||advertisement.deezer.com^$app=deezer.android.app
+
+! Bloqueio de Anúncios e Promoted Pins - Pinterest
+||ads.pinterest.com^$app=com.pinterest
+||ct.pinterest.com^$app=com.pinterest
+||log.pinterest.com^$app=com.pinterest
+||analytics.pinterest.com^$app=com.pinterest
+||trk.pinterest.com^$app=com.pinterest
+||s.pinimg.com/ct/*$app=com.pinterest
 ||pinterest.com##DIV[data-test-pin-id="-"]
 ||pinterest.com##DIV[data-test-pin-id="_"]
 ||pinterest.com##DIV[data-test-pin-id="a"]
