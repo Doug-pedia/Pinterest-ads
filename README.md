@@ -1,5 +1,1 @@
-# Pinterest-ads
-
-filtro para bloqueio de ads no Pinterest
-
-atualizado 17/12/2023
+Filtros personalizados para AdGuard Android focados no bloqueio de anúncios, rastreadores e pins patrocinados nos aplicativos Deezer, Pinterest e Spotify.
