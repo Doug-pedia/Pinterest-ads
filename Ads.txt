@@ -13,6 +13,17 @@
 ||s.pinimg.com/ct/*$app=com.pinterest
 ||pinimg.com/originals/ads/*$app=com.pinterest
 
+! --- BLOQUEIO DE ANÚNCIOS DO SPOTIFY (Android) ---
+||ads.spotify.com^$app=com.spotify.music
+||spclient.wg.spotify.com/ad-logic^$app=com.spotify.music
+||spclient.wg.spotify.com/ads^$app=com.spotify.music
+||audio-sp-ic.spotifycdn.com^$app=com.spotify.music
+||gew1-spclient.spotify.com/ad-logic^$app=com.spotify.music
+||guc3-spclient.spotify.com/ad-logic^$app=com.spotify.music
+||heads-fa.spotify.com^$app=com.spotify.music
+||analytics.spotify.com^$app=com.spotify.music
+||pubads.g.doubleclick.net^$app=com.spotify.music
+
 
 ||pinterest.com##DIV[data-test-pin-id="-"]
 ||pinterest.com##DIV[data-test-pin-id="_"]
